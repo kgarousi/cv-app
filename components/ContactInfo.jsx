@@ -9,6 +9,8 @@ export default function ContactInfo() {
       <form className='contact-info'>
           <LableInput type="text" text="First Name: "/>
           <LableInput type="text" text="Last Name: "/>
+          <LableInput type="email" text="Email: "/>
+          <LableInput type="tel" text="Phone Number: "/>
       </form>
     </div>
   );
