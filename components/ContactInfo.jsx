@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import LableInput from './Label';
+import LableInput from './LabelInput';
 
 export default function ContactInfo() {
 
